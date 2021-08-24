@@ -1,3 +1,6 @@
 .vscode
 node_modules
 config.js
+rooms.json
+img/leaderboard.png
+img/leaderboard-preview.png
